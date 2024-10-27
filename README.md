@@ -5,32 +5,37 @@
 ## 😎About myself
 ---
 - I‘m still learning,so my account's repositories are mostly forked.
+- I'm a student in China,so I may not reply on weekday.
 ---
-### I'm a student in China,so I may not reply on weekday.
 
 ## 📖 Learning 
-
-### Dart for flutter
-
+---
+-Dart for flutter
+---
 ## ♥️Hobby
+---
+- Shiina Mahiru Saikou🥰
+- 🎵 rhythm game(rotaeno rating15.56)
+- FPS(R6S)
+- and others(Reverse:1999)
+---
 
-### Shiina Mahiru Saikou🥰
-
-### 🎵 rhythm game(rotaeno rating15.56)
-
-### FPS(R6S)
-
-### and others(Reverse:1999)
+## Device
+---
+- Desktop PC(AMD A8-5600K)
+- Google Pixel 3
+- Lenovo Xiaoxin Pad Plus(2021)
+---
 
 ## Follow me on other places!
-
-### X:@whitebearovo
-
-### website:mahiru.us.kg
-
+---
+- X:@whitebearovo
+- website:mahiru.us.kg
+---
 ## contact me
-
-### telegram:whitebearovo
+---
+- telegram:whitebearovo
+---
 
 
 
