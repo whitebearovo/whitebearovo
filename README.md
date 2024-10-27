@@ -3,9 +3,9 @@
 ### I‘m whitebear.You can call me 「白熊」 in Chinese
 
 ## 😎About myself
-
-### I‘m still learning,so my account's repositories are mostly forked.
-
+---
+- I‘m still learning,so my account's repositories are mostly forked.
+---
 ### I'm a student in China,so I may not reply on weekday.
 
 ## 📖 Learning 
