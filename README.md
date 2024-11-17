@@ -27,6 +27,9 @@
 ---
 - telegram:whitebearovo
 
+## For GitHub Education
+
+- I am a student in Guicheng Middle School.
 
 
 
