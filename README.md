@@ -11,7 +11,7 @@
 ## ♥️Hobby
 ---
 - Shiina Mahiru Saikou🥰
-- 🎵 rhythm game(rotaeno rating15.56)
+- 🎵 rhythm game(rotaeno rating15.65)
 - FPS(R6S)
 - and others(Reverse:1999)
 ## Device
@@ -22,7 +22,7 @@
 ## Follow me on other places!
 ---
 - X:@whitebearovo
-- website:mahiru.us.kg
+- website:mahiru.tech
 ## contact me
 ---
 - telegram:whitebearovo
