@@ -1,6 +1,8 @@
 ## Hi there 👋
 ### I‘m whitebear.You can call me 「白熊」 in Chinese
 ## 😎About myself
+
+[![DX-Rating](https://dxrating.luoling.moe/api/luoxue/genImage/397341003825274)](https://github.com/luoling8192/dxrating)
 ---
 - I‘m still learning,so my account's repositories are mostly forked.
 - I'm a student in China,so I may not reply on weekday.
