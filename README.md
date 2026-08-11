@@ -28,6 +28,7 @@
 ## contact me
 ---
 - telegram:whitebearovo
+- Email:whitebearnya@gmail.com
 
 ![whitebearovo's GitHub stats](https://github-readme-stats.vercel.app/api?username=whitebearovo&count_private=true)
 
